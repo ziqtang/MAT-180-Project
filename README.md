@@ -1,6 +1,6 @@
 # MAT-180-Project
 1.Include names of every group member
-Yifei He, Ziqing Tang
+Yifei He, Ziqing Tang, Yuhan Ma
 
 2.Name of Project
 Predict Household Electricity Consumption
